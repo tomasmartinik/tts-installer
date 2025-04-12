@@ -1,0 +1,23 @@
+# Virtuální prostředí
+venv/
+ENV/
+.env/
+.venv/
+
+# PyInstaller build výstupy
+build/
+dist/
+__pycache__/
+
+# PyInstaller spec soubory (volitelné)
+*.spec
+
+# OS specifické soubory
+.DS_Store
+Thumbs.db
+
+# Git a IDE
+.git/
+*.log
+.idea/
+.vscode/
